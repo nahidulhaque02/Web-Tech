@@ -1,5 +1,5 @@
 <?php
-	  $name="raju"; 
+	  $name="anam"; 
 	  if($name="raju" || $name="mina" ||$name="mithu") {
 		 echo "hello" ;
 	     }
